@@ -2,7 +2,7 @@
     package="com.example.footieplus">
    <application
         android:label="footieplus"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/appicon">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
